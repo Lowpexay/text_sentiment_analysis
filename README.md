@@ -6,8 +6,8 @@ Este projeto utiliza o Streamlit e a biblioteca Transformers para realizar a an√
 
 1. Clone o reposit√≥rio:
     ```sh
-    git clone <URL_DO_REPOSITORIO>
-    cd <NOME_DO_REPOSITORIO>
+    git clone https://github.com/Lowpexay/text_sentiment_analysis.git
+    cd text_sentiment_analysis
     ```
 
 2. Crie um ambiente virtual (opcional, mas recomendado):
